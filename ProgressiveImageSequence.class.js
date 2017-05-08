@@ -17,7 +17,7 @@ function ProgressiveImageSequence( imgpath , count ,  options ) {
 
 
 	var defaultOptions = {
-		indexSize: 3 ,
+		indexSize: 4 ,
 		initialStep: 64 ,
 		onComplete: null ,
 		onProgress: null ,
